@@ -65,6 +65,47 @@ Mean period $\bar T=(1.415+1.420+1.425)/3=1.420\ \mathrm{s}$. For $L=0.500\ \mat
 
 **Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
 
+
+## Additional illustrated practice tables
+
+These filled tables are **hypothetical teaching examples**, organized around the manual's distinct measurement activities. They are **not actual measurements or copies of the manual's official report sheets**. Use the instructor's assigned apparatus and the printed tables for submissions.
+
+### Manual Table 1 — angle
+
+| Angle | Experimental T (s) | Small-angle theoretical T (s) |
+| --- | --- | --- |
+| 5° | 1.420 | 1.419 |
+| 10° | 1.425 | 1.419 |
+| 20° | 1.430 | 1.419 |
+| 30° | 1.445 | 1.419 |
+| 45° | 1.475 | 1.419 |
+
+### Manual Table 2 — mass
+
+| Mass (g) | Length (m) | Period (s) |
+| --- | --- | --- |
+| 50 | 0.500 | 1.420 |
+| 100 | 0.500 | 1.419 |
+| 150 | 0.500 | 1.421 |
+
+### Manual Table 3 — length
+
+| Length (m) | Period (s) | T² (s²) |
+| --- | --- | --- |
+| 0.200 | 0.898 | 0.806 |
+| 0.400 | 1.269 | 1.610 |
+| 0.600 | 1.555 | 2.418 |
+| 0.800 | 1.795 | 3.222 |
+
+### Manual Table 4 — damping
+
+| Cumulative oscillations | Amplitude (cm) |
+| --- | --- |
+| 0 | 18.0 |
+| 25 | 15.0 |
+| 50 | 12.5 |
+| 75 | 10.4 |
+
 ## Recording and analysis
 
 Record N oscillations and total time, compute period. Plot length dependence as the assigned axes specify; if L versus T², g = 4π² × slope.
