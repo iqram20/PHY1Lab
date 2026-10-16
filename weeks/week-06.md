@@ -68,6 +68,35 @@ Ideal acceleration $a_{\rm ideal}=(0.200-0.150)(9.8)/(0.200+0.150)=\mathbf{1.40\
 
 **Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
 
+
+## Additional illustrated practice tables
+
+These filled tables are **hypothetical teaching examples**, organized around the manual's distinct measurement activities. They are **not actual measurements or copies of the manual's official report sheets**. Use the instructor's assigned apparatus and the printed tables for submissions.
+
+### Manual Table 1 — constant force
+
+| m1 (kg) | m2 (kg) | Total (kg) | Net F (N) | Ideal a (m/s²) |
+| --- | --- | --- | --- | --- |
+| 0.150 | 0.200 | 0.350 | 0.490 | 1.40 |
+| 0.200 | 0.250 | 0.450 | 0.490 | 1.09 |
+| 0.250 | 0.300 | 0.550 | 0.490 | 0.891 |
+
+### Manual Table 2 — constant system mass
+
+| m1 (kg) | m2 (kg) | Total (kg) | Net F (N) | Ideal a (m/s²) |
+| --- | --- | --- | --- | --- |
+| 0.240 | 0.260 | 0.500 | 0.196 | 0.392 |
+| 0.225 | 0.275 | 0.500 | 0.490 | 0.980 |
+| 0.200 | 0.300 | 0.500 | 0.980 | 1.96 |
+
+### Repeated timing
+
+| Run | Distance (m) | Time (s) | Experimental a (m/s²) |
+| --- | --- | --- | --- |
+| 1 | 0.700 | 1.01 | 1.37 |
+| 2 | 0.700 | 1.00 | 1.40 |
+| 3 | 0.700 | 0.99 | 1.43 |
+
 ## Recording and analysis
 
 Record masses (including holders), distances, raw times, calculated or graph-derived acceleration and comparison with theoretical value.
