@@ -52,6 +52,30 @@ Set up the book's Atwood machine variant, measure both total hanging masses and 
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- Ideal system: $a=\frac{(m_2-m_1)g}{m_1+m_2}$ for $m_2>m_1$
+- Displacement from rest: $s=\tfrac12at^2$
+- Experimental $a=2s/t^2$
+- From $s$ versus $t^2$ graph, $a=2(\text{slope})$
+
+### Sample data table — illustrative values (not collected in class)
+
+| Quantity | Sample value |
+| --- | --- |
+| m₁ (total) | 0.150 kg |
+| m₂ (total) | 0.200 kg |
+| Travel distance s | 0.700 m |
+| Measured time t | 1.00 s |
+
+### Sample calculation — Atwood acceleration
+
+Ideal acceleration $a_{\rm ideal}=(0.200-0.150)(9.8)/(0.200+0.150)=\mathbf{1.40\ m/s^2}$. Experimental from the sample $a_{\rm exp}=2(0.700)/(1.00)^2=\mathbf{1.40\ m/s^2}$. Real systems can differ because of pulley inertia and friction. Use graph-derived acceleration if required by your manual's data table.
+
+**Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
+
 ## Recording and analysis
 
 Record masses (including holders), distances, raw times, calculated or graph-derived acceleration and comparison with theoretical value.
