@@ -1,0 +1,56 @@
+# Week 05 — Vector Addition: Force Table
+
+**Course:** PHY 210/215 Physics I Laboratory  
+**Manual:** Wilson & Hernández-Hall, *Physics Laboratory Experiments*, 8th ed., Experiment 6.  
+**Study first:** Read the complete original experiment, equipment notes, figures and data-report tables. These supplemental notes do **not** replace local instructions.
+
+## Objectives and ideas
+
+- Forces as vectors
+- Head-to-tail graphical addition
+- Components
+- Equilibrant.
+
+## Pre-lab equipment and preparation
+
+Confirm that all listed apparatus is present and working, locate scales/reference positions, inspect strings/fasteners, and write your measurement plan. Bring calculator, notebook, ruler, and graph paper as needed. Record apparatus-specific instrument resolution.
+
+## Lab procedure — teaching summary
+
+Level the force table and inspect hanger mass. Addition I: set total 0.200 kg at 30° and 0.200 kg at 120°; place a third pulley and adjust total equilibrant mass and direction to center ring. Repeat the book's specified cases and resolve a vector into components.
+
+## Main equations
+
+- `${x}`
+- `${x}`
+- `${x}`
+- `${x}`
+- `${x}`
+- `${x}`
+- `${x}`
+
+Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
+
+## Recording and analysis
+
+For each case compare graphical, analytical and experimental magnitude/angle. Addition I theoretical R ≈2.77 N at 75°, equilibrant ≈2.77 N at 255° (~283 g total).
+
+Always preserve raw trial-by-trial readings before averaging. Use the manual's own report tables and attach graphs/calculations as requested. Discuss reasonable sources of systematic and random uncertainty.
+
+## Safety and common mistakes
+
+Mass settings include hanger. Experimental hanging force measures the equilibrant, not the resultant direction. Ring should be centered and free of pin friction.
+
+## Preparation video
+
+- [Find demonstrations for this week's topic on YouTube](https://www.youtube.com/results?search_query=physics%20force%20table%20vector%20addition%20equilibrant%20experiment%20pulleys) — **search-results link**, not a pre-screened specific video. Verify the apparatus and method before following a demonstration.
+## Pre-lab thinking questions
+
+1. Which physical quantity is controlled and which quantity is measured in this experiment?
+2. What instrument reading is the largest source of uncertainty?
+3. Which graph or equation allows you to test the theory?
+4. What would a meaningful discrepancy between measured and predicted results tell you?
+
+---
+
+**Source note:** Written as original class guidance based on the manual's topic and available procedures; examples, simplified formulas and teaching advice may go beyond the exact lab handout. Consult the manual for the authoritative setup and report requirements.
