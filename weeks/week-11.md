@@ -49,6 +49,31 @@ Run the string vibrator with string routed over pulley to hanging masses. Adjust
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- Tension: $F\approx Mg$
+- Linear density: $\mu=m_{string}/L_{string}$
+- Wave speed: $v=\sqrt{F/\mu}=f\lambda$
+- For n half-wavelength loops: $\lambda=2L/n$
+
+### Sample data table — illustrative values (not collected in class)
+
+| Measurement | Example |
+| --- | --- |
+| Total hanger mass M | 0.200 kg |
+| String density μ | 0.00200 kg/m |
+| Frequency f | 50.0 Hz |
+| Loops n | 2 |
+| Effective L | 0.625 m |
+
+### Sample calculation
+
+$F=(0.200)(9.8)=1.96\ \mathrm N$. Theoretical wave speed $v=\sqrt{1.96/0.002}=\mathbf{31.3\ m/s}$. For $n=2$, $\lambda=2(0.625)/2=0.625\ \mathrm m$; hence measured $v=f\lambda=50.0(0.625)=\mathbf{31.25\ m/s}$. Follow the manual's node-position measurement convention.
+
+**Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
+
 ## Recording and analysis
 
 Record string's linear density, frequency, total hanging mass, loop counts, measured node distances, λ and predicted/measured velocities. Match the manual's measurement convention.
