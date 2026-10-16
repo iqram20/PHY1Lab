@@ -73,6 +73,40 @@ For the cylinder, $V=\pi(2.00/2)^2(5.00)=15.71\ \mathrm{cm^3}$. Thus $\rho=50.0/
 
 **Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
 
+
+## Additional illustrated practice tables
+
+These filled tables are **hypothetical teaching examples**, organized around the manual's distinct measurement activities. They are **not actual measurements or copies of the manual's official report sheets**. Use the instructor's assigned apparatus and the printed tables for submissions.
+
+### Instrument calibration
+
+| Instrument | Least count | Zero offset |
+| --- | --- | --- |
+| Vernier | 0.01 cm | +0.02 cm |
+| Micrometer | 0.01 mm | −0.01 mm |
+
+### Paper measurements
+
+| Quantity | Trial 1 | Trial 2 | Trial 3 |
+| --- | --- | --- | --- |
+| 10 sheets (mm) | 1.01 | 1.00 | 0.99 |
+| Manual stack (mm) | 24.0 | 24.1 | 23.9 |
+
+### Dimensions
+
+| Object | Dimension | Reading 1 | Reading 2 |
+| --- | --- | --- | --- |
+| Rod | Diameter (cm) | 1.99 | 2.01 |
+| Sphere | Diameter (cm) | 1.50 | 1.51 |
+| Sheet | Thickness (mm) | 0.48 | 0.49 |
+
+### Density summary
+
+| Object | Mass (g) | Volume (cm³) | Density (g/cm³) |
+| --- | --- | --- | --- |
+| Cylinder | 50.0 | 15.71 | 3.18 |
+| Irregular object | 32.4 | 12.0 | 2.70 |
+
 ## Recording and analysis
 
 Table 1 least counts; Table 2 paper/manual measurements; Table 3 dimensions; Table 4 mass, volume, density, accepted value and errors.
