@@ -68,6 +68,44 @@ $\bar T=0.800\ \mathrm{s}$, with rotating bob $m=0.150\ \mathrm{kg}$ and $r=0.20
 
 **Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
 
+
+## Additional illustrated practice tables
+
+These filled tables are **hypothetical teaching examples**, organized around the manual's distinct measurement activities. They are **not actual measurements or copies of the manual's official report sheets**. Use the instructor's assigned apparatus and the printed tables for submissions.
+
+### Manual Table 2 — increased bob mass
+
+| Trial | Revolutions | Time (s) | Period (s) |
+| --- | --- | --- | --- |
+| 1 | 25 | 22.0 | 0.880 |
+| 2 | 25 | 22.2 | 0.888 |
+| 3 | 25 | 22.4 | 0.896 |
+
+### Manual Table 3 — increased radius
+
+| Trial | Revolutions | Time (s) | Period (s) |
+| --- | --- | --- | --- |
+| 1 | 25 | 24.0 | 0.960 |
+| 2 | 25 | 24.2 | 0.968 |
+| 3 | 25 | 24.4 | 0.976 |
+
+### Manual Table 4 — changed spring (optional)
+
+| Trial | Revolutions | Time (s) | Period (s) |
+| --- | --- | --- | --- |
+| 1 | 25 | 18.0 | 0.720 |
+| 2 | 25 | 18.2 | 0.728 |
+| 3 | 25 | 18.4 | 0.736 |
+
+### Calculated-force summary
+
+| Condition | Bob (kg) | Radius (m) | Mean T (s) | Fc (N) |
+| --- | --- | --- | --- | --- |
+| Baseline | 0.150 | 0.200 | 0.800 | 1.85 |
+| Added mass | 0.250 | 0.200 | 0.888 | 2.50 |
+| Larger radius | 0.150 | 0.250 | 0.968 | 1.58 |
+| Different spring | 0.150 | 0.200 | 0.728 | 2.23 |
+
 ## Recording and analysis
 
 Manual Tables 1–4: baseline, vary bob mass (+100 g or more), vary radius, optionally vary spring stiffness. For each: three times, period, speed, Fc, Mg and percent difference.
