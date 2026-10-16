@@ -8,6 +8,30 @@
 
 - Nodes, antinodes, harmonic patterns, wavelength and tension.
 
+## Visual diagrams
+
+These original conceptual diagrams summarize the physics and measurement workflow; refer to the manual's apparatus figures for actual component positions.
+
+### Concept / apparatus relationships
+
+```mermaid
+flowchart TD
+ A["String under tension F = Mg"] --> B["Vibrator creates standing wave"]
+ B --> C["Identify nodes and loops"]
+ C --> D["Count n half-wavelength loops"]
+ D --> E["λ = 2L/n"]
+ E --> F["Measured wave speed v = fλ"]
+```
+
+### Measurement and analysis map
+
+```mermaid
+flowchart LR
+ A["Increase tension F"] --> C["Wave speed v = √(F/μ)"]
+ B["String mass/length μ"] --> C
+ C --> D["Wavelength changes at fixed driving frequency"]
+```
+
 ## Pre-lab equipment and preparation
 
 Confirm that all listed apparatus is present and working, locate scales/reference positions, inspect strings/fasteners, and write your measurement plan. Bring calculator, notebook, ruler, and graph paper as needed. Record apparatus-specific instrument resolution.
