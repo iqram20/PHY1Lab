@@ -50,6 +50,29 @@ Measure length pivot to bob center. For the angle study keep length and mass fix
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- Period: $T=t/N$
+- Small-angle period: $T=2\pi\sqrt{L/g}$
+- Linear form: $T^2=(4\pi^2/g)L$
+- From $L$ versus $T^2$ graph: $g=4\pi^2(\text{slope})$
+
+### Sample data table — illustrative values (not collected in class)
+
+| Trial | Oscillations N | Time t (s) | T=t/N (s) |
+| --- | --- | --- | --- |
+| 1 | 20 | 28.3 | 1.415 |
+| 2 | 20 | 28.4 | 1.420 |
+| 3 | 20 | 28.5 | 1.425 |
+
+### Sample calculation — Pendulum period and gravity
+
+Mean period $\bar T=(1.415+1.420+1.425)/3=1.420\ \mathrm{s}$. For $L=0.500\ \mathrm{m}$, $g=4\pi^2L/T^2=4\pi^2(0.500)/(1.420)^2=\mathbf{9.79\ m/s^2}$. The small-angle equation is less accurate at large release angles.
+
+**Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
+
 ## Recording and analysis
 
 Record N oscillations and total time, compute period. Plot length dependence as the assigned axes specify; if L versus T², g = 4π² × slope.
