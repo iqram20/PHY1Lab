@@ -68,6 +68,32 @@ Water absorbs $Q_w=(0.200)(4186)(24-20)=3348.8\ \mathrm J$. Neglecting calorimet
 
 **Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
 
+
+## Additional illustrated practice tables
+
+These are **hypothetical example datasets**, not actual class measurements or reproductions of the manual's report pages. Match the installed apparatus and submit data in the manual's official tables.
+
+### Calorimeter temperatures
+
+| Measurement | Water temp (°C) | Metal temp (°C) |
+| --- | --- | --- |
+| Before transfer | 20.0 | 90.0 |
+| After equilibrium | 24.0 | 24.0 |
+
+### Water and metal heat balance
+
+| Material | Mass (kg) | Specific heat (J/kg°C) | ΔT (°C) | Q (J) |
+| --- | --- | --- | --- | --- |
+| Water | 0.200 | 4186 | +4 | +3348.8 |
+| Metal | 0.100 | 507 | −66 | −3346.2 |
+
+### Comparison with reference value
+
+| Sample | Computed c (J/kg°C) | Accepted c (J/kg°C) | Percent error |
+| --- | --- | --- | --- |
+| A | 507 | 500 | 1.4% |
+| B | 390 | 385 | 1.3% |
+
 ## Recording and analysis
 
 Record masses and temperature readings, computed specific heat and accepted value, percent error. Include calorimeter heat capacity if required by instructor/manual.
