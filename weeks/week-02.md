@@ -47,17 +47,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Identify each instrument's least count and zero correction. Measure one sheet versus stacked sheets; estimate manual pages. Measure rod, wire, sphere and sheet dimensions repeatedly; weigh samples and use water displacement for irregular solids.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-- `${x}`
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
