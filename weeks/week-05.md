@@ -11,6 +11,34 @@
 - Components
 - Equilibrant.
 
+## Visual diagrams
+
+These original conceptual diagrams summarize the physics and measurement workflow; refer to the manual's apparatus figures for actual component positions.
+
+### Concept / apparatus relationships
+
+```mermaid
+flowchart TD
+ A["Force F₁: 200 g at 30°"] --> C["Vector addition"]
+ B["Force F₂: 200 g at 120°"] --> C
+ C --> D["Resultant R: ≈2.77 N at 75°"]
+ D --> E["Equilibrant E: ≈2.77 N at 255°"]
+ E --> F["Third pulley centers ring"]
+```
+
+### Measurement and analysis map
+
+```mermaid
+flowchart LR
+ A["For every force: F = mg"] --> B["Fx = Fcosθ"]
+ A --> C["Fy = Fsinθ"]
+ B --> D["Rx = ΣFx"]
+ C --> E["Ry = ΣFy"]
+ D --> F["R and angle"]
+ E --> F
+ F --> G["Reverse direction by 180° for equilibrant"]
+```
+
 ## Pre-lab equipment and preparation
 
 Confirm that all listed apparatus is present and working, locate scales/reference positions, inspect strings/fasteners, and write your measurement plan. Bring calculator, notebook, ruler, and graph paper as needed. Record apparatus-specific instrument resolution.
