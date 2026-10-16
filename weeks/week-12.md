@@ -8,6 +8,32 @@
 
 - Buoyancy, displaced water, and submerged apparent weight.
 
+## Visual diagrams
+
+These original conceptual diagrams summarize the physics and measurement workflow; refer to the manual's apparatus figures for actual component positions.
+
+### Concept / apparatus relationships
+
+```mermaid
+flowchart TD
+ A["Weigh object in air"] --> B["Wair"]
+ A --> C["Immerse fully without touching vessel"]
+ C --> D["Wsubmerged"]
+ B --> E["Buoyant force = Wair − Wsubmerged"]
+ D --> E
+ E --> F["Compare with ρfluid g Vdisplaced"]
+```
+
+### Measurement and analysis map
+
+```mermaid
+flowchart LR
+ A["Submerged object"] --> B["Weight W downward"]
+ A --> C["Buoyancy Fb upward"]
+ B --> D["Apparent weight W − Fb"]
+ C --> D
+```
+
 ## Pre-lab equipment and preparation
 
 Confirm that all listed apparatus is present and working, locate scales/reference positions, inspect strings/fasteners, and write your measurement plan. Bring calculator, notebook, ruler, and graph paper as needed. Record apparatus-specific instrument resolution.
