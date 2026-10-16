@@ -8,6 +8,34 @@
 
 - Heat transfer and calorimetry.
 
+## Visual diagrams
+
+These original conceptual diagrams summarize the physics and measurement workflow; refer to the manual's apparatus figures for actual component positions.
+
+### Concept / apparatus relationships
+
+```mermaid
+flowchart TD
+ A["Hot metal: mass mm, temperature Tm"] --> C["Transfer quickly to calorimeter"]
+ B["Cool water: mw, temperature Tw"] --> C
+ C --> D["Record shared final Tf"]
+ D --> E["Heat lost by metal"]
+ D --> F["Heat gained by water + calorimeter"]
+ E --> G["Energy balance"]
+ F --> G
+ G --> H["Determine metal specific heat"]
+```
+
+### Measurement and analysis map
+
+```mermaid
+flowchart LR
+ A["Metal cools"] --> C["Energy flows to colder water"]
+ B["Water warms"] --> C
+ C --> D["Qmetal + Qwater + Qcalorimeter = 0"]
+ D --> E["Check heat loss and temperature errors"]
+```
+
 ## Pre-lab equipment and preparation
 
 Confirm that all listed apparatus is present and working, locate scales/reference positions, inspect strings/fasteners, and write your measurement plan. Bring calculator, notebook, ruler, and graph paper as needed. Record apparatus-specific instrument resolution.
