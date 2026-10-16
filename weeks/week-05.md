@@ -47,19 +47,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Level the force table and inspect hanger mass. Addition I: set total 0.200 kg at 30° and 0.200 kg at 120°; place a third pulley and adjust total equilibrant mass and direction to center ring. Repeat the book's specified cases and resolve a vector into components.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-- `${x}`
-- `${x}`
-- `${x}`
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
