@@ -59,6 +59,30 @@ Level the force table and inspect hanger mass. Addition I: set total 0.200 kg at
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- Hanging tension: $F=mg$
+- Components: $F_x=F\cos\theta$, $F_y=F\sin\theta$
+- $R_x=\sum F_x$, $R_y=\sum F_y$
+- $R=\sqrt{R_x^2+R_y^2}$; $\theta_R=\operatorname{atan2}(R_y,R_x)$
+- Equilibrant: $\vec E=-\vec R$ (angle differs by 180°)
+
+### Sample data table — illustrative values (not collected in class)
+
+| Force | Total hanging mass | Angle | Magnitude |
+| --- | --- | --- | --- |
+| F₁ | 0.200 kg | 30° | 1.96 N |
+| F₂ | 0.200 kg | 120° | 1.96 N |
+| Equilibrant (theoretical) | 0.283 kg | 255° | 2.77 N |
+
+### Sample calculation — Force-table vector addition I
+
+$R_x=1.96\cos30^\circ+1.96\cos120^\circ=0.717\ \mathrm{N}$; $R_y=1.96\sin30^\circ+1.96\sin120^\circ=2.677\ \mathrm{N}$. Therefore $R=\sqrt{0.717^2+2.677^2}=\mathbf{2.77\ N}$ at **75°**. The balancing *equilibrant* is **2.77 N at 255°**, equivalent to **283 g total**, including the mass hanger.
+
+**Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
+
 ## Recording and analysis
 
 For each case compare graphical, analytical and experimental magnitude/angle. Addition I theoretical R ≈2.77 N at 75°, equilibrant ≈2.77 N at 255° (~283 g total).
