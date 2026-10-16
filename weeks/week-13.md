@@ -42,14 +42,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Measure original rod length and initial temperature. Install rod in expansion device, allow heated steam/hot water to bring it near final temperature, and record its length change and final temperature after equilibration.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
