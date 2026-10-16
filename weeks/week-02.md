@@ -57,6 +57,32 @@ Identify each instrument's least count and zero correction. Measure one sheet ve
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- $\rho=m/V$
+- Cylinder: $V=\pi(d/2)^2L$
+- Sphere: $V=\frac43\pi(d/2)^3$
+- Rectangular solid: $V=LWH$
+- Displacement: $V=V_f-V_i$
+- Corrected instrument reading = observed reading − zero offset
+
+### Sample data table — illustrative values (not collected in class)
+
+| Quantity | Sample reading |
+| --- | --- |
+| Mass | 50.0 g |
+| Cylinder diameter | 2.00 cm |
+| Cylinder length | 5.00 cm |
+| Initial/final water volume (optional irregular solid) | 20.0 / 32.0 mL |
+
+### Sample calculation — Density of a cylindrical sample
+
+For the cylinder, $V=\pi(2.00/2)^2(5.00)=15.71\ \mathrm{cm^3}$. Thus $\rho=50.0/15.71=\mathbf{3.18\ g/cm^3}$. For an irregular object with water readings of 20.0 and 32.0 mL, $V=12.0\ \mathrm{cm^3}$; weigh that object separately before calculating its density.
+
+**Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
+
 ## Recording and analysis
 
 Table 1 least counts; Table 2 paper/manual measurements; Table 3 dimensions; Table 4 mass, volume, density, accepted value and errors.
