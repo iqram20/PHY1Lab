@@ -67,6 +67,41 @@ $V=\sqrt{2(9.8)(0.010)}=0.443\ \mathrm{m/s}$. Thus $v_0=(0.300+0.020)/0.020\time
 
 **Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
 
+
+## Additional illustrated practice tables
+
+These are **hypothetical example datasets**, not actual class measurements or reproductions of the manual's report pages. Match the installed apparatus and submit data in the manual's official tables.
+
+### Pendulum catch repeated trials
+
+| Trial | Rise (m) | Postimpact V (m/s) | Launch v0 (m/s) |
+| --- | --- | --- | --- |
+| 1 | 0.0100 | 0.443 | 7.08 |
+| 2 | 0.0098 | 0.438 | 7.01 |
+| 3 | 0.0102 | 0.447 | 7.14 |
+
+### Horizontal-shot range
+
+| Trial | Fall height (m) | Range (m) |
+| --- | --- | --- |
+| 1 | 0.800 | 2.83 |
+| 2 | 0.800 | 2.86 |
+| 3 | 0.800 | 2.85 |
+| 4 | 0.800 | 2.84 |
+| 5 | 0.800 | 2.87 |
+
+### Launch angle and range (optional)
+
+| Angle | Average range (m) |
+| --- | --- |
+| 20° | 2.10 |
+| 30° | 2.82 |
+| 40° | 3.20 |
+| 45° | 3.25 |
+| 50° | 3.20 |
+| 60° | 2.82 |
+| 70° | 2.10 |
+
 ## Recording and analysis
 
 Record masses, rise/angle, repeated catches, speeds calculated from collision+energy, and range-fall trials where assigned.
