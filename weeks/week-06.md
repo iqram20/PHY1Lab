@@ -44,15 +44,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Set up the book's Atwood machine variant, measure both total hanging masses and travel distances, release the system from rest and record time or motion sensor data. Repeat with prescribed mass changes and construct the manual's acceleration graph.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
