@@ -56,6 +56,29 @@ Inspect marked divisions and estimate one extra digit where appropriate. Complet
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- Mean: $\bar x=\frac{1}{n}\sum_i x_i$
+- Estimated spread (half-range): $\Delta x\approx(x_{\max}-x_{\min})/2$
+- Percent error: $\frac{|x_{\mathrm{exp}}-x_{\mathrm{accepted}}|}{|x_{\mathrm{accepted}}|}\times100\%$
+- Percent difference (two measured values): $\frac{|A-B|}{(|A|+|B|)/2}\times100\%$
+
+### Sample data table — illustrative values (not collected in class)
+
+| Trial | Length (cm) |
+| --- | --- |
+| 1 | 10.1 |
+| 2 | 10.2 |
+| 3 | 10.0 |
+
+### Sample calculation — Measurement uncertainty
+
+$\bar x=(10.1+10.2+10.0)/3=10.1\ \mathrm{cm}$. Half-range estimate: $\Delta x=(10.2-10.0)/2=0.1\ \mathrm{cm}$. Report approximately **$(10.1\pm0.1)\ \mathrm{cm}$**, if half-range is the assigned uncertainty method. If the accepted length is 10.0 cm, percent error $=|10.1-10.0|/10.0\times100=1.0\%$. **Note:** the manual includes different uncertainty treatments; use the specified method for each question.
+
+**Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
+
 ## Recording and analysis
 
 Least count, reported measurements, uncertainty type, units, graph axes, trendline where requested.
