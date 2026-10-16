@@ -67,6 +67,32 @@ $\tau_L=(0.100)(9.8)(0.200)=0.196\ \mathrm{N\,m}$; $\tau_R=(0.200)(9.8)(0.100)=0
 
 **Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
 
+
+## Additional illustrated practice tables
+
+These are **hypothetical example datasets**, not actual class measurements or reproductions of the manual's report pages. Match the installed apparatus and submit data in the manual's official tables.
+
+### Torque balance cases
+
+| Case | Left mass (kg) | Left arm (m) | Right mass (kg) | Right arm (m) |
+| --- | --- | --- | --- | --- |
+| A | 0.100 | 0.200 | 0.200 | 0.100 |
+| B | 0.150 | 0.160 | 0.200 | 0.120 |
+
+### Unknown-mass lever
+
+| Known counterweight | Known arm | Unknown arm | Unknown mass |
+| --- | --- | --- | --- |
+| 0.200 kg | 0.120 m | 0.160 m | 0.150 kg |
+
+### Shifted pivot and stick weight
+
+| Force source | Mass (kg) | Arm (m) | Torque (N m) |
+| --- | --- | --- | --- |
+| Left mass | 0.100 | 0.200 | 0.196 CCW |
+| Stick | 0.100 | 0.050 | 0.049 CW |
+| Right mass | 0.150 | 0.100 | 0.147 CW |
+
 ## Recording and analysis
 
 Manual Table 1 cases of balanced loads and unknown mass; Table 2 noncentral pivot and center-of-gravity cases. Record positions, moment arms, clamp masses, clockwise/counterclockwise torques.
