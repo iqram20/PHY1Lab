@@ -44,16 +44,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Weigh bob; adjust pointer radius from rotor axis; align hanging bob over pointer before attaching spring. Rotate shaft so moving bob passes over pointer, time ~25 revolutions at least 10 seconds, repeat 3 trials. Stop rotation, attach string over pulley opposite spring and add total hanging weights until bob is back at pointer.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
