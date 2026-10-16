@@ -50,6 +50,29 @@ Measure object weight in air and apparent weight when fully immersed without tou
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- Buoyancy: $F_b=\rho_{fluid}gV_{displaced}$
+- $F_b=W_{air}-W_{submerged}$
+- $\rho_{object}=m/V$
+- Fully immersed: $V=F_b/(\rho_{fluid}g)$
+
+### Sample data table — illustrative values (not collected in class)
+
+| Quantity | Example |
+| --- | --- |
+| Weight in air | 2.45 N |
+| Weight submerged | 1.96 N |
+| Water density | 1000 kg/m³ |
+
+### Sample calculation
+
+$F_b=2.45-1.96=\mathbf{0.49\ N}$. Volume $V=0.49/(1000\times9.8)=5.00\times10^{-5}\ \mathrm{m^3}$. Mass $m=2.45/9.8=0.250\ \mathrm{kg}$, so density $\rho=0.250/(5.00\times10^{-5})=\mathbf{5000\ kg/m^3}$. Do not let immersed object touch vessel walls or floor.
+
+**Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
+
 ## Recording and analysis
 
 Record air weight, submerged weight, displaced volume/fluid density, calculated buoyant force and density; distinguish floating, fully submerged and partially submerged cases.
