@@ -50,6 +50,31 @@ Measure projectile and catcher masses and the ballistic pendulum rise or capture
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- Captured projectile momentum: $mv_0=(M+m)V$
+- Rise energy: $\tfrac12(M+m)V^2=(M+m)gh$
+- $v_0=\frac{M+m}{m}\sqrt{2gh}$
+- Horizontal launch: $v_0=x\sqrt{g/(2H)}$
+
+### Sample data table — illustrative values (not collected in class)
+
+| Quantity | Example |
+| --- | --- |
+| Projectile mass m | 0.020 kg |
+| Pendulum catcher mass M | 0.300 kg |
+| Rise h | 0.010 m |
+| Horizontal-shot height H | 0.800 m |
+| Horizontal range x | 2.85 m |
+
+### Sample calculation
+
+$V=\sqrt{2(9.8)(0.010)}=0.443\ \mathrm{m/s}$. Thus $v_0=(0.300+0.020)/0.020\times0.443=\mathbf{7.08\ m/s}$. Independent horizontal range estimate: $v_0=2.85\sqrt{9.8/(2\times0.800)}=\mathbf{7.05\ m/s}$. Momentum applies during collision; energy applies to the subsequent rise.
+
+**Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
+
 ## Recording and analysis
 
 Record masses, rise/angle, repeated catches, speeds calculated from collision+energy, and range-fall trials where assigned.
