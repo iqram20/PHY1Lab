@@ -50,6 +50,29 @@ Read the chosen manual variant and instructor's station instructions. Measure a 
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- Released from rest: $h=\tfrac12gt^2$
+- $g=2h/t^2$
+- Graph of $h$ versus $t^2$: slope $=g/2$
+- General constant acceleration: $x=x_0+v_0t+\tfrac12at^2$
+
+### Sample data table — illustrative values (not collected in class)
+
+| Trial | Height h (m) | Fall time t (s) |
+| --- | --- | --- |
+| 1 | 0.800 | 0.403 |
+| 2 | 0.800 | 0.404 |
+| 3 | 0.800 | 0.405 |
+
+### Sample calculation — Free-fall acceleration
+
+Mean time $\bar t=(0.403+0.404+0.405)/3=0.404\ \mathrm{s}$. Assuming release from rest and negligible air drag, $g=2(0.800)/(0.404)^2=\mathbf{9.80\ m/s^2}$. The **course free-fall station** may have additional equipment-specific timing corrections; follow its sheet.
+
+**Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
+
 ## Recording and analysis
 
 Record height, repeated times, mean t, t² and inferred acceleration. Check whether the assigned manual variant expects a different position/time graph.
