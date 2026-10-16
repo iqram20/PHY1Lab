@@ -1,0 +1,52 @@
+# Week 08 — Torques and Equilibrium
+
+**Course:** PHY 210/215 Physics I Laboratory  
+**Manual:** Wilson & Hernández-Hall, *Physics Laboratory Experiments*, 8th ed., Experiment 14.  
+**Study first:** Read the complete original experiment, equipment notes, figures and data-report tables. These supplemental notes do **not** replace local instructions.
+
+## Objectives and ideas
+
+- Lever arm
+- Torque
+- Balance
+- Center of gravity.
+
+## Pre-lab equipment and preparation
+
+Confirm that all listed apparatus is present and working, locate scales/reference positions, inspect strings/fasteners, and write your measurement plan. Bring calculator, notebook, ruler, and graph paper as needed. Record apparatus-specific instrument resolution.
+
+## Lab procedure — teaching summary
+
+Locate the meterstick's balance point. Support at its center of gravity for early cases, suspend masses on either side and adjust moment arms for equilibrium. Determine an unknown mass from torques. Then shift pivot, account for meterstick's own mass and experimentally find system center of gravity.
+
+## Main equations
+
+- `${x}`
+- `${x}`
+- `${x}`
+
+Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
+
+## Recording and analysis
+
+Manual Table 1 cases of balanced loads and unknown mass; Table 2 noncentral pivot and center-of-gravity cases. Record positions, moment arms, clamp masses, clockwise/counterclockwise torques.
+
+Always preserve raw trial-by-trial readings before averaging. Use the manual's own report tables and attach graphs/calculations as requested. Discuss reasonable sources of systematic and random uncertainty.
+
+## Safety and common mistakes
+
+Include clamp/hook masses if used; torques must reference a specified pivot. Do not assume the stick's balance point is exactly 50 cm.
+
+## Preparation video
+
+- [Find demonstrations for this week's topic on YouTube](https://www.youtube.com/results?search_query=meterstick%20torque%20equilibrium%20center%20of%20gravity%20physics%20lab) — **search-results link**, not a pre-screened specific video. Verify the apparatus and method before following a demonstration.
+## Pre-lab thinking questions
+
+1. Which physical quantity is controlled and which quantity is measured in this experiment?
+2. What instrument reading is the largest source of uncertainty?
+3. Which graph or equation allows you to test the theory?
+4. What would a meaningful discrepancy between measured and predicted results tell you?
+
+---
+
+**Source note:** Written as original class guidance based on the manual's topic and available procedures; examples, simplified formulas and teaching advice may go beyond the exact lab handout. Consult the manual for the authoritative setup and report requirements.
