@@ -8,6 +8,32 @@
 
 - Change in solid length as temperature rises.
 
+## Visual diagrams
+
+These original conceptual diagrams summarize the physics and measurement workflow; refer to the manual's apparatus figures for actual component positions.
+
+### Concept / apparatus relationships
+
+```mermaid
+flowchart TD
+ A["Original rod length L₀"] --> C["Heat rod"]
+ B["Starting temperature Ti"] --> C
+ C --> D["Measure final temperature Tf"]
+ C --> E["Measure expansion ΔL"]
+ D --> F["ΔT = Tf − Ti"]
+ E --> G["α = ΔL/(L₀ΔT)"]
+ F --> G
+```
+
+### Measurement and analysis map
+
+```mermaid
+flowchart LR
+ A["Temperature rise ΔT"] --> C["Expansion ΔL = αL₀ΔT"]
+ B["Initial length L₀"] --> C
+ C --> D["Estimate expansion coefficient α"]
+```
+
 ## Pre-lab equipment and preparation
 
 Confirm that all listed apparatus is present and working, locate scales/reference positions, inspect strings/fasteners, and write your measurement plan. Bring calculator, notebook, ruler, and graph paper as needed. Record apparatus-specific instrument resolution.
