@@ -44,14 +44,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Measure masses and initial temperatures of water/calorimeter and heated metal. Heat the metal in a controlled bath; transfer dry heated sample promptly to the insulated calorimeter; record equilibrium temperature, repeat as assigned.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
