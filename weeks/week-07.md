@@ -9,6 +9,33 @@
 - Circular motion of spring-attached bob
 - Period and spring tension.
 
+## Visual diagrams
+
+These original conceptual diagrams summarize the physics and measurement workflow; refer to the manual's apparatus figures for actual component positions.
+
+### Concept / apparatus relationships
+
+```mermaid
+flowchart TD
+ A["Bob mass m and orbit radius r"] --> B["Rotate: bob passes over pointer"]
+ B --> C["Measure time t for N revolutions"]
+ C --> D["Period T = t/N"]
+ D --> E["Speed v = 2πr/T"]
+ E --> F["Computed Fc = mv²/r"]
+ F --> H["Compare two forces"]
+ G["Stop rotor, hang M to balance spring: Fdirect = Mg"] --> H
+```
+
+### Measurement and analysis map
+
+```mermaid
+flowchart LR
+ A["Table 1: baseline"] --> B["Table 2: vary bob mass"]
+ B --> C["Table 3: vary orbit radius"]
+ C --> D["Table 4: optional different spring"]
+ D --> E["Three timings for each condition"]
+```
+
 ## Pre-lab equipment and preparation
 
 Confirm that all listed apparatus is present and working, locate scales/reference positions, inspect strings/fasteners, and write your measurement plan. Bring calculator, notebook, ruler, and graph paper as needed. Record apparatus-specific instrument resolution.
