@@ -71,6 +71,33 @@ $\bar x=(10.1+10.2+10.0)/3=10.1\ \mathrm{cm}$. Half-range estimate: $\Delta x=(1
 
 **Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
 
+
+## Additional illustrated practice tables
+
+These filled tables are **hypothetical teaching examples**, organized around the manual's distinct measurement activities. They are **not actual measurements or copies of the manual's official report sheets**. Use the instructor's assigned apparatus and the printed tables for submissions.
+
+### Instrument resolution
+
+| Instrument | Least count | Reading |
+| --- | --- | --- |
+| Meterstick | 1 mm | 12.3 cm |
+| Balance | 0.01 g | 24.63 g |
+
+### Precision and accuracy
+
+| Series | Readings (cm) | Mean (cm) |
+| --- | --- | --- |
+| A | 10.1, 10.2, 10.0 | 10.1 |
+| B | 10.5, 10.5, 10.5 | 10.5 |
+
+### Graph preparation
+
+| Time (s) | Time² (s²) | Distance (m) |
+| --- | --- | --- |
+| 0.10 | 0.010 | 0.05 |
+| 0.20 | 0.040 | 0.20 |
+| 0.30 | 0.090 | 0.45 |
+
 ## Recording and analysis
 
 Least count, reported measurements, uncertainty type, units, graph axes, trendline where requested.
