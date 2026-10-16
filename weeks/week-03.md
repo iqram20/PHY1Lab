@@ -42,15 +42,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Measure length pivot to bob center. For the angle study keep length and mass fixed and time repeated oscillations at several initial angles. Repeat with altered bob mass; vary string length for the length study; observe decreasing amplitude for damping.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
