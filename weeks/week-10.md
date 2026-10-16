@@ -42,16 +42,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Hang a spring vertically and measure unstretched reference. Add successive known masses, read extensions, and graph applied force versus extension to find stiffness k. If SHM is included, time many oscillations for a hanging mass and compare the period prediction. The local schedule combines topics drawn from more than one manual experiment.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
