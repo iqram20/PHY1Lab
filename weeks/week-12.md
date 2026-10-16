@@ -42,15 +42,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Measure object weight in air and apparent weight when fully immersed without touching vessel. Determine buoyant force from weight difference; compare to weight of displaced fluid. Use geometry or displaced-water volume to infer density where assigned.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
