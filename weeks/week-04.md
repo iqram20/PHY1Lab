@@ -42,15 +42,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Read the chosen manual variant and instructor's station instructions. Measure a series of drop heights, release without imparting speed, record repeated times using the installed timer or sensor, then determine acceleration from a suitable plot.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
