@@ -13,6 +13,33 @@
 - Uncertainty
 - Graphs.
 
+## Visual diagrams
+
+These original conceptual diagrams summarize the physics and measurement workflow; refer to the manual's apparatus figures for actual component positions.
+
+### Concept / apparatus relationships
+
+```mermaid
+flowchart TD
+ A["Measurement"] --> B["Instrument least count"]
+ A --> C["Repeated readings"]
+ B --> D["Report sensible significant figures"]
+ C --> E["Mean and spread"]
+ D --> F["Result ± uncertainty"]
+ E --> F
+ F --> G["Compare with accepted value"]
+```
+
+### Measurement and analysis map
+
+```mermaid
+flowchart LR
+ A["Random uncertainty"] --> B["Scatter between trials"]
+ C["Systematic error"] --> D["Shift in one direction"]
+ B --> E["Improve by repetition"]
+ D --> F["Check zero and calibration"]
+```
+
 ## Pre-lab equipment and preparation
 
 Confirm that all listed apparatus is present and working, locate scales/reference positions, inspect strings/fasteners, and write your measurement plan. Bring calculator, notebook, ruler, and graph paper as needed. Record apparatus-specific instrument resolution.
