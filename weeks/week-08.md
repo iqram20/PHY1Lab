@@ -45,15 +45,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Locate the meterstick's balance point. Support at its center of gravity for early cases, suspend masses on either side and adjust moment arms for equilibrium. Determine an unknown mass from torques. Then shift pivot, account for meterstick's own mass and experimentally find system center of gravity.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
