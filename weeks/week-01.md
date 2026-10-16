@@ -48,15 +48,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Inspect marked divisions and estimate one extra digit where appropriate. Complete the manual's least-count, significant-figure, error-analysis, and graphing exercises; show intermediate work.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
