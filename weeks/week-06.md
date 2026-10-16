@@ -8,6 +8,34 @@
 
 - Pulley, two unequal hanging masses and accelerated motion.
 
+## Visual diagrams
+
+These original conceptual diagrams summarize the physics and measurement workflow; refer to the manual's apparatus figures for actual component positions.
+
+### Concept / apparatus relationships
+
+```mermaid
+flowchart LR
+ A["m₁"] --> C["Pulley: connected masses"]
+ B["m₂"] --> C
+ C --> D["If m₂ > m₁: m₂ down, m₁ up"]
+ D --> E["Measure distance s and time t"]
+ E --> F["a = 2s/t²"]
+ F --> G["Compare aideal = (m₂−m₁)g/(m₁+m₂)"]
+```
+
+### Measurement and analysis map
+
+```mermaid
+flowchart TD
+ A["Record position over time"] --> B["Graph position vs time squared"]
+ B --> C["For release from rest, slope = a/2"]
+ C --> D["Measured acceleration"]
+ E["Masses and g"] --> F["Theoretical acceleration"]
+ D --> G["Compare"]
+ F --> G
+```
+
 ## Pre-lab equipment and preparation
 
 Confirm that all listed apparatus is present and working, locate scales/reference positions, inspect strings/fasteners, and write your measurement plan. Bring calculator, notebook, ruler, and graph paper as needed. Record apparatus-specific instrument resolution.
