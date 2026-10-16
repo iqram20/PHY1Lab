@@ -53,6 +53,30 @@ Weigh bob; adjust pointer radius from rotor axis; align hanging bob over pointer
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- Period: $T=t/N$
+- Speed: $v=2\pi r/T$
+- Calculated force: $F_c=mv^2/r=4\pi^2mr/T^2$
+- Stationary hanging calibration: $F_{\rm direct}=Mg$
+- Percent difference: $\frac{|F_c-F_{\rm direct}|}{(F_c+F_{\rm direct})/2}\times100\%$
+
+### Sample data table — illustrative values (not collected in class)
+
+| Trial | Revolutions | Total time (s) | Period (s) |
+| --- | --- | --- | --- |
+| 1 | 25 | 19.8 | 0.792 |
+| 2 | 25 | 20.0 | 0.800 |
+| 3 | 25 | 20.2 | 0.808 |
+
+### Sample calculation — Rotating bob and spring-force comparison
+
+$\bar T=0.800\ \mathrm{s}$, with rotating bob $m=0.150\ \mathrm{kg}$ and $r=0.200\ \mathrm{m}$. Speed $v=2\pi(0.200)/0.800=1.571\ \mathrm{m/s}$. Thus $F_c=0.150(1.571)^2/0.200=\mathbf{1.85\ N}$. A **stationary** balancing hanger of total mass $M=0.190\ \mathrm{kg}$ gives $F_{\rm direct}=0.190(9.8)=\mathbf{1.86\ N}$. Never attach the hanging calibration weights while the device is rotating.
+
+**Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
+
 ## Recording and analysis
 
 Manual Tables 1–4: baseline, vary bob mass (+100 g or more), vary radius, optionally vary spring stiffness. For each: three times, period, speed, Fc, Mg and percent difference.
