@@ -49,6 +49,29 @@ Measure original rod length and initial temperature. Install rod in expansion de
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- $\Delta T=T_f-T_i$
+- $\Delta L=\alpha L_0\Delta T$
+- $\alpha=\Delta L/(L_0\Delta T)$
+
+### Sample data table — illustrative values (not collected in class)
+
+| Quantity | Example |
+| --- | --- |
+| Initial rod length | 0.500 m |
+| Initial temperature | 20 °C |
+| Final temperature | 100 °C |
+| Length increase | 0.000920 m |
+
+### Sample calculation
+
+$\Delta T=100-20=80\ ^\circ\mathrm C$. Expansion coefficient $\alpha=0.000920/(0.500\times80)=\mathbf{2.30\times10^{-5}\ ^\circ C^{-1}}$. Note $0.000920\ \mathrm m=0.920\ \mathrm{mm}$. Handle heated rods and steam lines as burn hazards.
+
+**Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
+
 ## Recording and analysis
 
 Record sample material, initial length, initial/final temperatures, measured expansion, calculated α and accepted value.
