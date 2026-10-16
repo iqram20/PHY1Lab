@@ -65,6 +65,27 @@ $F=(0.200)(9.8)=1.96\ \mathrm N$. Theoretical wave speed $v=\sqrt{1.96/0.002}=\m
 
 **Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
 
+
+## Additional illustrated practice tables
+
+These are **hypothetical example datasets**, not actual class measurements or reproductions of the manual's report pages. Match the installed apparatus and submit data in the manual's official tables.
+
+### Mode shape and tension
+
+| Loops | Hanging mass (kg) | Tension (N) | Nodal span (m) | Wavelength (m) |
+| --- | --- | --- | --- | --- |
+| 1 | 0.100 | 0.980 | 0.221 | 0.442 |
+| 2 | 0.200 | 1.960 | 0.625 | 0.625 |
+| 3 | 0.300 | 2.940 | 1.148 | 0.765 |
+
+### Wavelength versus square-root tension
+
+| Tension (N) | sqrt(F) (sqrt N) | Wavelength (m) |
+| --- | --- | --- |
+| 0.980 | 0.990 | 0.442 |
+| 1.960 | 1.400 | 0.625 |
+| 2.940 | 1.715 | 0.765 |
+
 ## Recording and analysis
 
 Record string's linear density, frequency, total hanging mass, loop counts, measured node distances, λ and predicted/measured velocities. Match the manual's measurement convention.
