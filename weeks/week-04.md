@@ -65,6 +65,34 @@ Mean time $\bar t=(0.403+0.404+0.405)/3=0.404\ \mathrm{s}$. Assuming release fro
 
 **Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
 
+
+## Additional illustrated practice tables
+
+These filled tables are **hypothetical teaching examples**, organized around the manual's distinct measurement activities. They are **not actual measurements or copies of the manual's official report sheets**. Use the instructor's assigned apparatus and the printed tables for submissions.
+
+### Drop heights and times
+
+| Height (m) | Time 1 (s) | Time 2 (s) | Time 3 (s) |
+| --- | --- | --- | --- |
+| 0.20 | 0.201 | 0.202 | 0.203 |
+| 0.40 | 0.285 | 0.286 | 0.287 |
+| 0.80 | 0.403 | 0.404 | 0.405 |
+
+### Graph and calculated g
+
+| Height (m) | Mean time (s) | t² (s²) | g (m/s²) |
+| --- | --- | --- | --- |
+| 0.20 | 0.202 | 0.0408 | 9.80 |
+| 0.40 | 0.286 | 0.0818 | 9.78 |
+| 0.80 | 0.404 | 0.1632 | 9.80 |
+
+### Manual apparatus versions
+
+| Setup | Recorded variables | Analysis |
+| --- | --- | --- |
+| Course free-fall timer | Height and fall time | h versus t² |
+| Textbook Exp. 5 air track | Cart position and time | Follow assigned TI or CI tables |
+
 ## Recording and analysis
 
 Record height, repeated times, mean t, t² and inferred acceleration. Check whether the assigned manual variant expects a different position/time graph.
