@@ -71,6 +71,42 @@ $R_x=1.96\cos30^\circ+1.96\cos120^\circ=0.717\ \mathrm{N}$; $R_y=1.96\sin30^\cir
 
 **Student reminder:** These values are examples for practice, **not** the manual's original measurements or a filled official report. Use your actual readings, the laboratory manual's specified tables, and the required units.
 
+
+## Additional illustrated practice tables
+
+These filled tables are **hypothetical teaching examples**, organized around the manual's distinct measurement activities. They are **not actual measurements or copies of the manual's official report sheets**. Use the instructor's assigned apparatus and the printed tables for submissions.
+
+### Manual addition cases I–III
+
+| Case | First force | Second force | Analytical resultant |
+| --- | --- | --- | --- |
+| I | 1.96 N @30° | 1.96 N @120° | 2.77 N @75° |
+| II | 1.96 N @20° | 1.47 N @80° | 2.99 N @45.3° |
+| III | 1.96 N @0° | 1.47 N @90° | 2.45 N @36.9° |
+
+### Resolution at 60°
+
+| Applied force | Fx | Fy | Balancing direction |
+| --- | --- | --- | --- |
+| 2.94 N @60° | 1.47 N @0° | 2.55 N @90° | 240° |
+
+### Compare three methods
+
+| Method | Resultant magnitude | Resultant direction |
+| --- | --- | --- |
+| Graphical example | 2.75 N | 76° |
+| Analytical | 2.77 N | 75° |
+| Experimental example | 2.80 N | 74° |
+
+### Three-force addition IV component workspace
+
+| Force | Fx (N) | Fy (N) |
+| --- | --- | --- |
+| 0.98 N @30° | 0.849 | 0.490 |
+| 1.96 N @90° | 0.000 | 1.960 |
+| 2.94 N @225° | −2.079 | −2.079 |
+| Sum | −1.230 | 0.371 |
+
 ## Recording and analysis
 
 For each case compare graphical, analytical and experimental magnitude/angle. Addition I theoretical R ≈2.77 N at 75°, equilibrant ≈2.77 N at 255° (~283 g total).
