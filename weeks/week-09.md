@@ -9,6 +9,31 @@
 - Inelastic collision followed by pendulum rise
 - Projectile range.
 
+## Visual diagrams
+
+These original conceptual diagrams summarize the physics and measurement workflow; refer to the manual's apparatus figures for actual component positions.
+
+### Concept / apparatus relationships
+
+```mermaid
+flowchart TD
+ A["Projectile m enters catcher M"] --> B["Inelastic collision"]
+ B --> C["Pendulum rises by h"]
+ C --> D["Energy after collision: V = √(2gh)"]
+ D --> E["Momentum at impact: mv₀ = (M+m)V"]
+ E --> F["Calculate initial speed v₀"]
+```
+
+### Measurement and analysis map
+
+```mermaid
+flowchart LR
+ A["Launcher at table edge"] --> B["Horizontal projectile"]
+ B --> C["Measure fall height h and horizontal range x"]
+ C --> D["v₀ = x√(g/(2h))"]
+ D --> E["Compare with ballistic pendulum"]
+```
+
 ## Pre-lab equipment and preparation
 
 Confirm that all listed apparatus is present and working, locate scales/reference positions, inspect strings/fasteners, and write your measurement plan. Bring calculator, notebook, ruler, and graph paper as needed. Record apparatus-specific instrument resolution.
