@@ -51,6 +51,30 @@ Measure masses and initial temperatures of water/calorimeter and heated metal. H
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- Thermal balance: $Q_{metal}+Q_{water}+Q_{calorimeter}=0$
+- Heating: $Q=mc\Delta T$
+- If calorimeter heat is negligible: $c_m=\frac{m_wc_w(T_f-T_w)}{m_m(T_m-T_f)}$
+
+### Sample data table — illustrative values (not collected in class)
+
+| Quantity | Example |
+| --- | --- |
+| Hot metal mass | 0.100 kg |
+| Metal initial temp | 90 °C |
+| Water mass | 0.200 kg |
+| Water initial temp | 20 °C |
+| Equilibrium temp | 24 °C |
+
+### Sample calculation
+
+Water absorbs $Q_w=(0.200)(4186)(24-20)=3348.8\ \mathrm J$. Neglecting calorimeter heat, $c_m=3348.8/[0.100(90-24)]=\mathbf{507\ J/(kg\cdot{}^\circ C)}$. If the manual supplies calorimeter heat capacity, add its heat gain. Transfer and dry the hot metal carefully.
+
+**Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
+
 ## Recording and analysis
 
 Record masses and temperature readings, computed specific heat and accepted value, percent error. Include calorimeter heat capacity if required by instructor/manual.
