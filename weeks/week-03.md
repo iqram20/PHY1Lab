@@ -8,6 +8,32 @@
 
 - Angle, mass, length, damping and period.
 
+## Visual diagrams
+
+These original conceptual diagrams summarize the physics and measurement workflow; refer to the manual's apparatus figures for actual component positions.
+
+### Concept / apparatus relationships
+
+```mermaid
+flowchart TD
+ A["Pivot"] --> B["String length + bob radius = L"]
+ B --> C["Displace through small angle"]
+ C --> D["Release without push"]
+ D --> E["Time N oscillations"]
+ E --> F["T = total time / N"]
+ F --> G["Compare T = 2π√(L/g)"]
+```
+
+### Measurement and analysis map
+
+```mermaid
+flowchart LR
+ A["Change angle"] --> D["Observe period"]
+ B["Change mass"] --> D
+ C["Change length"] --> D
+ D --> E["Plot length against period squared"]
+```
+
 ## Pre-lab equipment and preparation
 
 Confirm that all listed apparatus is present and working, locate scales/reference positions, inspect strings/fasteners, and write your measurement plan. Bring calculator, notebook, ruler, and graph paper as needed. Record apparatus-specific instrument resolution.
