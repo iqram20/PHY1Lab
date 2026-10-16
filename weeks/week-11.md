@@ -40,16 +40,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Run the string vibrator with string routed over pulley to hanging masses. Adjust tension and vibrating span to obtain stable two-, three- and further-loop patterns as directed; measure lengths between indicated nodal positions. Determine wavelengths and wave speed.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
