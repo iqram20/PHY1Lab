@@ -65,6 +65,26 @@ $\Delta T=100-20=80\ ^\circ\mathrm C$. Expansion coefficient $\alpha=0.000920/(0
 
 **Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
 
+
+## Additional illustrated practice tables
+
+These are **hypothetical example datasets**, not actual class measurements or reproductions of the manual's report pages. Match the installed apparatus and submit data in the manual's official tables.
+
+### Expansion during heating
+
+| Temperature (°C) | Temperature rise (°C) | Length increase (mm) |
+| --- | --- | --- |
+| 20 | 0 | 0.000 |
+| 60 | 40 | 0.460 |
+| 100 | 80 | 0.920 |
+
+### Calculated expansion coefficients
+
+| Trial | Original L (m) | ΔT (°C) | ΔL (mm) | α (1/°C) |
+| --- | --- | --- | --- | --- |
+| 1 | 0.500 | 80 | 0.920 | 2.30×10⁻⁵ |
+| 2 | 0.500 | 70 | 0.805 | 2.30×10⁻⁵ |
+
 ## Recording and analysis
 
 Record sample material, initial length, initial/final temperatures, measured expansion, calculated α and accepted value.
