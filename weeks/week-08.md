@@ -53,6 +53,28 @@ Locate the meterstick's balance point. Support at its center of gravity for earl
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- $\tau=rF\sin\phi$
+- $\sum F=0$, $\sum\tau=0$
+- Perpendicular weights: $m_1gr_1=m_2gr_2$
+- Center of gravity: $x_{cm}=\sum m_ix_i/\sum m_i$
+
+### Sample data table — illustrative values (not collected in class)
+
+| Side | Mass (kg) | Arm (m) | Torque (N·m) |
+| --- | --- | --- | --- |
+| Left | 0.100 | 0.200 | 0.196 CCW |
+| Right | 0.200 | 0.100 | 0.196 CW |
+
+### Sample calculation
+
+$\tau_L=(0.100)(9.8)(0.200)=0.196\ \mathrm{N\,m}$; $\tau_R=(0.200)(9.8)(0.100)=0.196\ \mathrm{N\,m}$. Equal opposite torques produce $\sum\tau=0$. Include clamp mass, and include meterstick weight when pivot is off its balance point.
+
+**Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
+
 ## Recording and analysis
 
 Manual Table 1 cases of balanced loads and unknown mass; Table 2 noncentral pivot and center-of-gravity cases. Record positions, moment arms, clamp masses, clockwise/counterclockwise torques.
