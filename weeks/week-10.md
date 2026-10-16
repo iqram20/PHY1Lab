@@ -51,6 +51,29 @@ Hang a spring vertically and measure unstretched reference. Add successive known
 
 Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
 
+## Essential equations and worked example
+
+### Main equations
+
+- Hooke's law: $F=-kx$
+- Magnitude of force at equilibrium: $mg=kx$
+- Spring potential energy: $U_s=\tfrac12kx^2$
+- Ideal mass-spring period: $T=2\pi\sqrt{m/k}$
+
+### Sample data table — illustrative values (not collected in class)
+
+| Hanging mass (kg) | Force (N) | Extension (m) |
+| --- | --- | --- |
+| 0.050 | 0.490 | 0.020 |
+| 0.100 | 0.980 | 0.040 |
+| 0.150 | 1.470 | 0.060 |
+
+### Sample calculation
+
+Slope of force-versus-extension graph: $k=0.980/0.040=\mathbf{24.5\ N/m}$. With oscillating mass 0.100 kg, predicted $T=2\pi\sqrt{0.100/24.5}=\mathbf{0.401\ s}$. At $x=0.040$ m, $U_s=\tfrac12(24.5)(0.040)^2=\mathbf{0.0196\ J}$. The course combines Hooke's law and SHM: check whether manual Experiment 13, 16 or both are assigned.
+
+**Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
+
 ## Recording and analysis
 
 Record added total mass, force, extension, graph slope k; for SHM also number of oscillations and period. If doing the manual's spring-energy test, record its release/turning-point heights.
