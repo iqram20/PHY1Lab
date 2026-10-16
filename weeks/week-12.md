@@ -65,6 +65,26 @@ $F_b=2.45-1.96=\mathbf{0.49\ N}$. Volume $V=0.49/(1000\times9.8)=5.00\times10^{-
 
 **Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
 
+
+## Additional illustrated practice tables
+
+These are **hypothetical example datasets**, not actual class measurements or reproductions of the manual's report pages. Match the installed apparatus and submit data in the manual's official tables.
+
+### Air versus submerged trials
+
+| Trial | Air weight (N) | Apparent water weight (N) | Buoyant force (N) |
+| --- | --- | --- | --- |
+| 1 | 2.45 | 1.96 | 0.49 |
+| 2 | 2.45 | 1.95 | 0.50 |
+| 3 | 2.45 | 1.97 | 0.48 |
+
+### Buoyancy in different fluids
+
+| Fluid density (kg/m³) | Displaced volume (cm³) | Predicted Fb (N) |
+| --- | --- | --- |
+| 1000 | 50.0 | 0.490 |
+| 800 | 50.0 | 0.392 |
+
 ## Recording and analysis
 
 Record air weight, submerged weight, displaced volume/fluid density, calculated buoyant force and density; distinguish floating, fully submerged and partially submerged cases.
