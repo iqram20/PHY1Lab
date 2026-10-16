@@ -65,6 +65,34 @@ Slope of force-versus-extension graph: $k=0.980/0.040=\mathbf{24.5\ N/m}$. With 
 
 **Student reminder:** These are illustrative data, not the manual's original table entries or measurements. Complete the official lab report using actual readings and the manual's required conventions.
 
+
+## Additional illustrated practice tables
+
+These are **hypothetical example datasets**, not actual class measurements or reproductions of the manual's report pages. Match the installed apparatus and submit data in the manual's official tables.
+
+### Spring-energy measurements
+
+| Mass (kg) | Extension (m) | Energy (J) |
+| --- | --- | --- |
+| 0.100 | 0.040 | 0.0196 |
+| 0.150 | 0.060 | 0.0441 |
+
+### SHM timing (if assigned)
+
+| Mass (kg) | Cycles | Time (s) | Period (s) |
+| --- | --- | --- | --- |
+| 0.100 | 20 | 8.02 | 0.401 |
+| 0.150 | 20 | 9.83 | 0.492 |
+| 0.200 | 20 | 11.35 | 0.568 |
+
+### Force-extension graph points
+
+| Extension (m) | Force (N) | k (N/m) |
+| --- | --- | --- |
+| 0.020 | 0.490 | 24.5 |
+| 0.040 | 0.980 | 24.5 |
+| 0.060 | 1.470 | 24.5 |
+
 ## Recording and analysis
 
 Record added total mass, force, extension, graph slope k; for SHM also number of oscillations and period. If doing the manual's spring-energy test, record its release/turning-point heights.
