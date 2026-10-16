@@ -42,15 +42,7 @@ Confirm that all listed apparatus is present and working, locate scales/referenc
 
 Measure projectile and catcher masses and the ballistic pendulum rise or capture angle according to apparatus; repeat launches. For the manual's range-fall check, secure the launcher at a table edge, mark impact area, measure drop height and horizontal range over repeated shots.
 
-## Main equations
-
-- `${x}`
-- `${x}`
-- `${x}`
-
-Use SI units unless the manual specifically requests another unit. Show the substitution of measured values and label final units.
-
-## Essential equations and worked example
+## Equations, sample data, and worked calculation
 
 ### Main equations
 
